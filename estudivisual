@@ -1,4 +1,5 @@
 git clone (link)
+cd (nom)
 git status
 git add .
 git commit -m "nom comit"
